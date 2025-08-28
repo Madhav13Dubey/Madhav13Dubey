@@ -16,9 +16,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Madhav+Dubey;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=1000&lines=Hi+there%2C+I'm+Madhav+Dubey;From+Jammu+%26+Kashmir+–+The+City+of+Temples;Final+Year+B.Tech+Student+at+BIT+Mesra;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
-
 
 
 
